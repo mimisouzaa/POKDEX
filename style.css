@@ -1,0 +1,93 @@
+body{
+    background: #efefbb;
+    background: linear-gradient(to rigth, rgbg (197,130,236), rgb (239,187,230));
+    color: white;
+    margin: 0%;
+    font-family: rubik;
+}
+
+.container{
+    padding: 40px;
+    margin:0 auto;
+     
+}
+
+.card{
+    list-style: none;
+    padding: 40px;
+    color: #222;
+    text-align: center;
+    border-radius: 20px;
+    position: relative;
+}
+
+.card:after{ 
+    content: "";    
+    display: block;  
+    width: 50%;
+    height: 45%;
+    border-radius: 100%;
+    background-color: #fff;
+    opacity: .7;
+    position: absolute;
+    top: 15%;
+    left: 25%;
+}
+
+.card:cover{
+    animation: bouce 0,5s linear;
+}
+ 
+.card-title{
+    text-transform: capitalize;
+    margin-bottom: 0%;
+    font-size: 32px;
+    position: relative;
+    z-index: 2;
+}
+
+.card-subtitulo{
+    
+}
+
+
+
+
+
+                                                                                                                                                                                                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
